@@ -25,7 +25,7 @@ if (!class_exists("Hgk_Smtp")) {
             add_option('hgk_smtpport', 465);
             add_option('hgk_smtpuser', __('johndoe@gmail.com', 'hgksmtp'));
             add_option('hgk_smtppswd', __('password', 'hgksmtp'));
-            add_option('hgk_mail',     __('', 'hgksmtp'));
+            add_option('hgk_mail',     '');
             add_option('hgk_name',     __('John Doe', 'hgksmtp'));
             
             $this->updateState();
@@ -196,8 +196,8 @@ if (!class_exists("Hgk_Smtp")) {
     }
 }
 
-load_plugin_textdomain('hgksmtp', $path = plugin_dir_path(__FILE__));
-
+load_plugin_textdomain('hgksmtp', false, basename(dirname(__FILE__)) . '/langs');
+        
 if (class_exists("Hgk_Smtp")) {
     $hgk_smtp_instance = new Hgk_Smtp();
 }
