@@ -1,0 +1,163 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ihagaki.com
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/hgk-smtp\n"
+"POT-Creation-Date: 2009-09-11 19:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: hgk-smtp.php:23
+msgid "smtp.gmail.com"
+msgstr ""
+
+#: hgk-smtp.php:26
+msgid "johndoe@gmail.com"
+msgstr ""
+
+#: hgk-smtp.php:27
+msgid "password"
+msgstr ""
+
+#: hgk-smtp.php:29
+msgid "John Doe"
+msgstr ""
+
+#: hgk-smtp.php:38 hgk-smtp.php:86
+msgid "HGK SMTP Options"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Plugin Name of an extension
+#: hgk-smtp.php:38
+msgid "HGK SMTP"
+msgstr ""
+
+#: hgk-smtp.php:64
+msgid "Test Result"
+msgstr ""
+
+#: hgk-smtp.php:71
+msgid "This is a test mail sent using HGK SMTP Plugin"
+msgstr ""
+
+#: hgk-smtp.php:73
+msgid "Test email sent. Please check your mailbox (and spam folder)"
+msgstr ""
+
+#: hgk-smtp.php:76
+msgid "Return to Options Page"
+msgstr ""
+
+#: hgk-smtp.php:92
+msgid "SMTP Account"
+msgstr ""
+
+#: hgk-smtp.php:95
+msgid "SMTP server address:"
+msgstr ""
+
+#: hgk-smtp.php:99
+msgid "Example: smtp.gmail.com"
+msgstr ""
+
+#: hgk-smtp.php:102
+msgid "Use SSL connection:"
+msgstr ""
+
+#: hgk-smtp.php:107
+msgid "Leave checked for gmail"
+msgstr ""
+
+#: hgk-smtp.php:110
+msgid "SMTP server port:"
+msgstr ""
+
+#: hgk-smtp.php:113
+msgid "Default for gmail is '465'"
+msgstr ""
+
+#: hgk-smtp.php:116
+msgid "SMTP username:"
+msgstr ""
+
+#: hgk-smtp.php:120
+msgid "Example: johndoe@gmail.com"
+msgstr ""
+
+#: hgk-smtp.php:123
+msgid "SMTP password:"
+msgstr ""
+
+#: hgk-smtp.php:128
+msgid "Advanced Email Options"
+msgstr ""
+
+#: hgk-smtp.php:131
+msgid "Sender e-mail:"
+msgstr ""
+
+#: hgk-smtp.php:135
+msgid ""
+"Sets From: address for outgoing messages. Overrides SMTP username (the "
+"default)"
+msgstr ""
+
+#: hgk-smtp.php:136
+msgid "Hint: in most cases you want to leave this entry blank"
+msgstr ""
+
+#: hgk-smtp.php:139
+msgid "Sender name:"
+msgstr ""
+
+#: hgk-smtp.php:143
+msgid "Sets sender's Name for outgoing messages"
+msgstr ""
+
+#: hgk-smtp.php:148
+msgid "Save Changes"
+msgstr ""
+
+#: hgk-smtp.php:152
+msgid "Send Test Email"
+msgstr ""
+
+#: hgk-smtp.php:153
+msgid ""
+"Once the options are saved, you can test the connection by attemping to send "
+"an email."
+msgstr ""
+
+#: hgk-smtp.php:156
+msgid "Send test email to this address:"
+msgstr ""
+
+#: hgk-smtp.php:158
+msgid "Send Test"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://www.ihagaki.com/wordpress/hgk-smtp-plugin"
+msgstr ""
+
+#. Description of an extension
+msgid "Reconfigure WordPress email to use secure SMTP such as Gmail."
+msgstr ""
+
+#. Author of an extension
+msgid "ihagaki.com"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://www.ihagaki.com"
+msgstr ""
