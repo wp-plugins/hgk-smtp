@@ -5,7 +5,7 @@ Plugin URI: http://www.ihagaki.com/wordpress/hgk-smtp-plugin
 Description: Reconfigure WordPress email to use secure SMTP such as Gmail. 
 Author: ihagaki.com
 Author URI: http://www.ihagaki.com
-Version: 1.0
+Version: 1.1
 */
 
 if (!class_exists("Hgk_Smtp")) {
