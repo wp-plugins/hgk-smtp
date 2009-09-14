@@ -4,7 +4,7 @@ Donate link: http://www.ihagaki.com/
 Tags: gmail, mail, phpmailer, smtp, wp_mail
 Requires at least: 2.8
 Tested up to: 2.8.4
-Stable tag: 1.0
+Stable tag: 1.1
 
 Reconfigures WordPress email to use secure SMTP such as Gmail. Plugin options are accessible through the admin panel.
 
@@ -58,6 +58,10 @@ Please feel free to contact us by visiting support page and leaving your feedbac
 <http://www.ihagaki.com/wordpress/hgk-smtp-plugin/>
 
 == Changelog ==
+
+= v1.1 2009-09-14 =
+
+* enabling localization
 
 = v1.0 2009-09-09 =
 
